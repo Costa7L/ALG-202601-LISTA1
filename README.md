@@ -33,3 +33,6 @@ pedir valores e calcula a média dos valores já fornecidos.
 
 explicação
 
+```
+printf("Ola mundo");
+```
